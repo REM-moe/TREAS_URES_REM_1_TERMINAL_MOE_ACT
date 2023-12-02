@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------------ACT: 1-------------------------------------------------------------------------------------------------
+
+As the first light of Sunday dawn painted the park in amber hue, I, Edward Teddy, secret detective for the Central Bureau, savoured the calm after my morning walk. Little did I anticipate that the tranquillity would be shattered when a discreet messenger from the Bureau slipped onto the bench
+beside me.
+
+"Edward Teddy,' he whispered, his eyes darting nervously. 'We've unearthed a covert operation. You're needed."
+
+I nodded, acknowledging the gravity of the situation. The messenger handed me a piece of paper with some alien-looking script.
+
+"The CryptX unlocks the message."
+
+Before I could question further, he melted back into the shadows, leaving me with nothing but an encrypted message and the weight of boiling curiosity.
+
+I pulled out my Walkman in haste and pressed the secret button. Under the Walkman skin, was the most powerful portable decoder from bureau, the CryptX. Device came to life with my classified passcode and scanned in the cipher text. Every other second the CryptX showed processing screen, my heart pounded faster and faster.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Task:
+	> Decode the script using CryptX.
+	> Read the message from burea.
+	> Progress to ACT 2.
+	
+Tip:
+	> Victim's name unlock's act_2.zip.
+	
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
