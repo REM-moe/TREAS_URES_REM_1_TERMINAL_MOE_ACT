@@ -18,7 +18,7 @@ int main() {
     char 美丽, *缓冲区 = ねこ;
     FILE* 文件指针;
 
-    文件指针 = fopen("ceasear_cypher.txt", "r");
+    文件指针 = fopen("ceasar_cypher.txt", "r");
     
     if (文件指针) {
         fseek(文件指针, ねこ, SEEK_END);
